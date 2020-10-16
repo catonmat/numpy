@@ -155,3 +155,5 @@ If you run into build issues and need help, the NumPy and SciPy
 `mailing list <https://scipy.org/scipylib/mailing-lists.html>`_ is the best
 place to ask. If the issue is clearly a bug in NumPy, please file an issue (or
 even better, a pull request) at https://github.com/numpy/numpy.
+
+made a change.
