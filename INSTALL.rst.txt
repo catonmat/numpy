@@ -158,3 +158,4 @@ even better, a pull request) at https://github.com/numpy/numpy.
 
 made a change.
 made an other change.
+made some other change.
