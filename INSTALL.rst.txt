@@ -157,3 +157,4 @@ place to ask. If the issue is clearly a bug in NumPy, please file an issue (or
 even better, a pull request) at https://github.com/numpy/numpy.
 
 made a change.
+made an other change.
